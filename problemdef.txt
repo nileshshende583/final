@@ -1,0 +1,24 @@
+rock well automation head quarter in london and 17 offshore developement centres 
+company consist of 35000 employee but their limitaion is that they are unable to store the all data that's why they appproaches to amazon cloud for maintaining their data .
+they will make service which contain all information about their company ex.employee details of all departments as well as their clients information,
+which is like infrastructure as service and after that they will deploy that service on amazon web so that every emloyee can access that rest api by entering 
+the url from anywhere it will become easier to company to growth buisness because due to this employee can do the same job from home also,the comapny has no need to extend their infrastructure.
+
+
+functional requiremnets
+1)every employee able to acces the service
+2)admin should able to manage all employee details
+3)admin should be able to maintain data of employee from hiring date to resigning 
+date
+4)attendance should be managed on hrsolution portal
+5)admin should manage employees role
+6)admin should be able to provide all information about employees pf ,salary
+7)employee should able to do succesful login
+8)the hr solution portal of employee  should be updated as requirement ex if promotion of employee takes place or salary increase
+
+nonfunctional requirements
+1)employee can access data faster
+2)comany can scale their infrstructure
+3)availability of the information should be there
+4)data should not be corrupted
+5)the site should be secure
