@@ -9,6 +9,7 @@ var Information = [
 {empId:3,empName:"Gaurav sonawane",AccountNo:1003,role:"tester"},
 {empId:4,empName:"Pramod Desai",AccountNo:1004,role:"developer"},
 {empId:5,empName:"nilesh shende",AccountNo:1005,role:"worker"}
+{empId:6,empName:"aniket joshi",AccountNo:1006,role:"architechture"}
 ];
   res.send(Information);
 };
